@@ -42,4 +42,4 @@ Si deseas colaborar lo puedes hacer de la siguiente manera:
 * Crear rama git checkout -b nueva_rama
     * Hacer los cambios
 	* git push origin nueva_rama
-* Crear pull resquest ingresando [aca](https://github.com/talug/talug.github.com/pulls)
+* Crear pull resquest
