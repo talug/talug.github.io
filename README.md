@@ -16,10 +16,10 @@ Y si está en nuestras manos y la información es acorde al tema del sitio enton
 Historia
 ================
 
-Por que GitHub pages y no usar un CMS como WordPress, Joomla, Drupal? ya hemos usado CMS anteriormente, inicialmente el sitio
-web estuvo hecho con php-nuke un CMS hecho por el tachirense Francisco Burzi y php-nuke fue uno de los CMS pioneros, el cual luego de que el proyecto se hiciera comercial
+¿Por qué GitHub pages y no usar un CMS como WordPress, Joomla, Drupal? ya hemos usado CMS anteriormente, inicialmente el sitio
+web estuvo hecho con php-nuke un CMS hecho por Francisco Burzi y PHP-Nuke fue uno de los CMS pioneros, el cual luego de que el proyecto se hiciera comercial
 nos hacía llegar de primera mano las actualizaciones, sin embargo el sitio fue atacado varias veces y llevaba mucho trabajo su 
-mantenimiento, poco a poco php-nuke fue entrando en desuso por la comunidad y fue progresivamente superado por otros CMS más modernos.
+mantenimiento, poco a poco PHP-Nuke fue entrando en desuso por la comunidad y fue progresivamente superado por otros CMS más modernos.
 
 Luego el sitio fue migrado a Drupal, trabajo realizado enteramente por Xavier Araque, sin embargo el sitio actualmente tiene poca
 colaboración de sus miembros para mantener el contenido actualizado, esto suponemos que es debido a que hoy en día las páginas web son más
