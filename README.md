@@ -7,9 +7,9 @@ Si usted quiere agregar alguna información al sitio y no sabe como, por favor c
 
 https://github.com/talug?tab=members
 
-O use nuestra lista de correo en: 
+O use nuestra lista de correo en:
 
-[L-talug](http://linuxtachira.org/mailman/listinfo/l-talug_linuxtachira.org)
+[L-talug](https://groups.google.com/forum/#!forum/l-talug)
 
 Y si está en nuestras manos y la información es acorde al tema del sitio entonces con gusto trataremos de agregarla.
 
@@ -18,7 +18,7 @@ Historia
 
 ¿Por qué GitHub pages y no usar un CMS como [WordPress](http://wordpress.org/), [Joomla](http://www.joomla.org/), [Drupal](https://drupal.org/)? ya hemos usado CMS anteriormente, inicialmente el sitio
 web estuvo hecho con php-nuke un CMS hecho por Francisco Burzi y PHP-Nuke fue uno de los CMS pioneros, el cual luego de que el proyecto se hiciera comercial
-nos hacía llegar de primera mano las actualizaciones, sin embargo el sitio fue atacado varias veces y llevaba mucho trabajo su 
+nos hacía llegar de primera mano las actualizaciones, sin embargo el sitio fue atacado varias veces y llevaba mucho trabajo su
 mantenimiento, poco a poco PHP-Nuke fue entrando en desuso por la comunidad y fue progresivamente superado por otros CMS más modernos.
 
 Luego el sitio fue migrado a Drupal, trabajo realizado enteramente por Xavier Araque, sin embargo el sitio actualmente tiene poca
