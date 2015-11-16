@@ -43,3 +43,12 @@ Si deseas colaborar lo puedes hacer de la siguiente manera:
     * Hacer los cambios
 	* git push origin nueva_rama
 * Crear pull request
+
+Créditos
+================
+
+* Imágenes del slider:
+     * Jorge Alviarez https://www.flickr.com/photos/jaac/5607263936/ y https://www.flickr.com/photos/jaac/5606812993/
+     * Erickson Carrera https://www.flickr.com/photos/douglassalaz/9587342127/in/photostream/
+* Template gracias a Initializr
+    * http://www.initializr.com/

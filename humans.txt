@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Richzendy -- Colaborador, mantenedor de infraestrutura de Linux Táchira, coder -- @Richzendy
+
+# THANKS
+
+    k0k
+    Rendergraf
+    Skatox
+    Ciscoinc
+    eidast
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, bootstrap
+    https://compressor.io
