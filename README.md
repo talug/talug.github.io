@@ -1,4 +1,4 @@
-LinuxTachira.org
+LinuxTachira.org.ve
 ================
 
 WebSite del Grupo de Usuarios Linux de Táchira, contribuciones son bienvenidas a través del sistema de versionamiento git en github,
