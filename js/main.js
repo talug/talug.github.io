@@ -12,3 +12,7 @@ function FormContacto() {
     { error += "Debe escribir un mensaje \n";}
     if(error!=""){ alert("Lista de Errores encontrados:\n\n"+error); return false; }
 }
+
+    var d = new Date();
+    var n = d.getFullYear();
+    document.getElementById("year").innerHTML = n;

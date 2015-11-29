@@ -1,2 +1,179 @@
-.btn-inverse{color:#ffffff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);background-color:#363636;*background-color:#222222;background-image:-moz-linear-gradient(top, #444, #222);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#444), to(#222));background-image:-webkit-linear-gradient(top, #444, #222);background-image:-o-linear-gradient(top, #444, #222);background-image:linear-gradient(to bottom, #444, #222);background-repeat:repeat-x;border-color:#222222 #222222 #000000;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);filter:progid:DXImageTransform.Microsoft.gradient(enabled=false);text-shadow:0 -1px 0 rgba(0,0,0,0.2);-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075);box-shadow:inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075)}.btn-inverse:hover,.btn-inverse:focus,.btn-inverse:active,.btn-inverse.active,.btn-inverse.disabled,.btn-inverse[disabled]{color:#ffffff;background-color:#222222;*background-color:#151515;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,0.125);box-shadow:inset 0 3px 5px rgba(0,0,0,0.125)}.btn-inverse:active,.btn-inverse.active{background-color:#080808 \9}.btn-inverse.active{color:rgba(255,255,255,0.75)}.container-fluid{padding-right:50px;padding-left:50px}p{font-size:1.8rem;margin-bottom:25px}.main-image{width:100%;height:500px;background:url("../img/san-cristobal.jpg") no-repeat;background-size:cover;background-attachment:fixed;position:relative}.main-image .creditos{bottom:20px;font-weight:bold;position:absolute;right:20px;color:#fff;text-shadow:0 0 5px #000}.main-image .creditos a{color:#fff;text-shadow:0 0 5px #000}.main-image .greeting{margin-bottom:20px;padding:50px 0 0 50px}.main-image .greeting h3{margin-top:25px}.main-image .greeting img{width:20%;height:auto;float:left}.main-image .greeting .quienes-somos{background:rgba(255,255,255,0.55);border-radius:20px;margin-left:30px;padding:30px;width:60%;float:left}h3{font-size:3.2rem;border-bottom:#fbe502 1px double;margin:50px 0;padding-bottom:15px}.navbar-default{opacity:0.75}.lista-correo img{display:inline-block}.lista-correo form div:first-child{padding-left:0}.eventos #contacto{margin-bottom:40px}.eventos ul{padding-left:0}.eventos ul li{display:inline-block;padding:10px;color:#FFF;list-style:none;font-size:1rem;margin-bottom:4px}.eventos ul li:nth-child(odd){background-color:#fbe502}.eventos ul li:nth-child(even){background-color:black}textarea{width:100%}address{margin-bottom:0}footer{background:#fae401 none repeat scroll 0% 0%;border-top:2px solid #000;padding:8px 0px;font-size:1.2rem;margin-top:25px}footer p{margin-top:5px;font-size:1.2rem}@media screen and (max-width: 1024px){.main-image{height:auto;padding-bottom:40px}.main-image .greeting{padding-left:0}.main-image .greeting img,.main-image .greeting .quienes-somos{float:none;margin:0  auto}.main-image .greeting .quienes-somos{margin-top:10px;width:95%}.email{display:none}}.contcookies{position:fixed;bottom:0;width:100%;margin:0;padding:20px;background:rgba(100,100,100,0.85);text-align:center;box-shadow:0 -2px 2px #aaa;border-top:1px solid #888;color:#ccc}.contcookies a{text-decoration:none;color:#dd6 !important}.contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294 !important;font-weight:700;text-shadow:none}
+@charset "UTF-8";
+.btn-inverse {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #363636;
+  *background-color: #222222;
+  background-image: -moz-linear-gradient(top, #444444, #222222);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#444444), to(#222222));
+  background-image: -webkit-linear-gradient(top, #444444, #222222);
+  background-image: -o-linear-gradient(top, #444444, #222222);
+  background-image: linear-gradient(to bottom, #444444, #222222);
+  background-repeat: repeat-x;
+  border-color: #222222 #222222 #000000;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
+
+.btn-inverse:hover,
+.btn-inverse:focus,
+.btn-inverse:active,
+.btn-inverse.active,
+.btn-inverse.disabled,
+.btn-inverse[disabled] {
+  color: #ffffff;
+  background-color: #222222;
+  *background-color: #151515;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); }
+
+.btn-inverse:active,
+.btn-inverse.active {
+  background-color: #080808 \9; }
+
+.btn-inverse.active {
+  color: rgba(255, 255, 255, 0.75); }
+
+/* ==========================================================================
+   Linux Táchira custom styles
+   ========================================================================== */
+.container-fluid {
+  padding-right: 50px;
+  padding-left: 50px; }
+
+.container-fluid.header {
+  padding-right: 0px;
+  padding-left: 0px; }
+
+p {
+  font-size: 1.8rem;
+  margin-bottom: 25px; }
+
+.main-image {
+  width: 100%;
+  height: 500px;
+  background: url("../img/san-cristobal.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative; }
+  .main-image .creditos {
+    bottom: 20px;
+    font-weight: bold;
+    position: absolute;
+    right: 20px;
+    color: #fff;
+    text-shadow: 0 0 5px #000; }
+    .main-image .creditos a {
+      color: #fff;
+      text-shadow: 0 0 5px #000; }
+  .main-image .greeting {
+    margin-bottom: 20px;
+    padding: 50px 0 0 50px; }
+    .main-image .greeting h3 {
+      margin-top: 25px; }
+    .main-image .greeting img {
+      width: 20%;
+      height: auto;
+      float: left; }
+    .main-image .greeting .quienes-somos {
+      background: rgba(255, 255, 255, 0.55);
+      border-radius: 20px;
+      margin-left: 30px;
+      padding: 30px;
+      width: 60%;
+      float: left; }
+
+h3 {
+  font-size: 3.2rem;
+  border-bottom: #fbe502 1px double;
+  margin: 50px 0;
+  padding-bottom: 15px; }
+
+.navbar-default {
+  opacity: 0.75; }
+
+.lista-correo img {
+  display: inline-block; }
+.lista-correo form div:first-child {
+  padding-left: 0; }
+
+.eventos #contacto {
+  margin-bottom: 40px; }
+.eventos ul {
+  padding-left: 0; }
+  .eventos ul li {
+    display: inline-block;
+    padding: 10px;
+    color: #FFF;
+    list-style: none;
+    font-size: 1rem;
+    margin-bottom: 4px; }
+    .eventos ul li:nth-child(odd) {
+      background-color: #fbe502;
+      color: #000; }
+    .eventos ul li:nth-child(even) {
+      background-color: black; }
+
+textarea {
+  width: 100%; }
+
+address {
+  margin-bottom: 0; }
+
+footer {
+  background: #fae401 none repeat scroll 0% 0%;
+  border-top: 2px solid black;
+  padding: 8px 0px;
+  font-size: 1.2rem;
+  margin-top: 25px; }
+  footer p {
+    margin-top: 5px;
+    font-size: 1.2rem; }
+
+/** Responsive */
+@media screen and (max-width: 1024px) {
+  .main-image {
+    height: auto;
+    padding-bottom: 40px; }
+    .main-image .greeting {
+      padding-left: 0; }
+      .main-image .greeting img, .main-image .greeting .quienes-somos {
+        float: none;
+        margin: 0  auto; }
+      .main-image .greeting .quienes-somos {
+        margin-top: 10px;
+        width: 95%; }
+
+  .email {
+    display: none; } }
+/** Aceptar las cookies */
+.contcookies {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  background: rgba(100, 100, 100, 0.85);
+  text-align: center;
+  box-shadow: 0 -2px 2px #aaa;
+  border-top: 1px solid #888;
+  color: #ccc; }
+
+.contcookies a {
+  text-decoration: none;
+  color: #dd6 !important; }
+
+.contcookies a.cookiesaceptar {
+  padding: 4px;
+  font-size: 90%;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #ddd;
+  color: #294 !important;
+  font-weight: 700;
+  text-shadow: none; }
+
 /*# sourceMappingURL=main.css.map */

@@ -51,6 +51,11 @@ $yellow: #fbe502;
     padding-left: 50px;
 }
 
+.container-fluid.header {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 p {
 	font-size: 1.8rem;
 	margin-bottom: 25px;
@@ -130,7 +135,10 @@ h3 {
 			font-size: 1rem;
 			margin-bottom: 4px;
 
-			&:nth-child(odd) { background-color: $yellow; }
+			&:nth-child(odd) {
+              background-color: $yellow;
+              color: #000;
+              }
 			&:nth-child(even) { background-color: black; }
 		}
 	}
