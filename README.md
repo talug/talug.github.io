@@ -9,7 +9,7 @@ https://github.com/talug?tab=members
 
 O use nuestra lista de correo en:
 
-[L-talug](https://groups.google.com/forum/#!forum/l-talug)
+[L-talug](http://listas.velug.org.ve/mailman/listinfo/l-talug)
 
 Y si está en nuestras manos y la información es acorde al tema del sitio entonces con gusto trataremos de agregarla.
 
