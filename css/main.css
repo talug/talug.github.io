@@ -45,8 +45,8 @@
   padding-left: 50px; }
 
 .container-fluid.header {
-  padding-right: 0px;
-  padding-left: 0px; }
+  padding-right: 15px;
+  padding-left: 15px; }
 
 p {
   font-size: 1.8rem;
