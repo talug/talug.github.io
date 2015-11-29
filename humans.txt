@@ -4,6 +4,7 @@
 # TEAM
 
     Richzendy -- Colaborador, mantenedor de infraestrutura de Linux Táchira, coder -- @Richzendy
+    Skatox -- Colaborador, coder -- @skatox
 
 # THANKS
 
