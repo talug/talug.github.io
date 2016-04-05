@@ -63,7 +63,7 @@ p {
 .main-image {
 	width: 100%;
 	height: 500px;
-	background: url('../img/san-cristobal.jpg') no-repeat;
+	background: url('/img/san-cristobal.jpg') no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
@@ -114,7 +114,6 @@ h3 {
 
 .lista-correo {
 	img {
-		display: inline-block;
 	}
 	
 	form {
@@ -162,6 +161,30 @@ footer {
 
 }
 
+.flisol-2016 {
+  margin-left: -50px;
+  margin-right: -50px;
+  background-color: #FBE502;
+  padding-bottom: 20px;
+  h3 {
+    border-bottom: #000 1px double;
+  }
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 50%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
 /** Responsive */
 @media screen and (max-width: 1024px){
 	.main-image {
@@ -190,9 +213,6 @@ footer {
 .contcookies{position:fixed;bottom:0;width:100%;margin:0;padding:20px;background:rgba(100,100,100,0.85);text-align:center;box-shadow:0 -2px 2px #aaa;border-top:1px solid #888;color:#ccc}
 .contcookies a{text-decoration:none;color:#dd6!important}
 .contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294!important;font-weight:700;text-shadow:none}
-
-
-
 
 
 
